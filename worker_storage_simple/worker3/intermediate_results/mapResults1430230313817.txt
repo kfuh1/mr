@@ -1,0 +1,7 @@
+innocent,1
+innocent,1
+mean,1
+who,1
+what,1
+when,1
+where,1

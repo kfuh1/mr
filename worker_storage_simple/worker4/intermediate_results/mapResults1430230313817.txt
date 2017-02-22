@@ -1,0 +1,8 @@
+fearless,1
+enchanted,1
+innocent,1
+what,1
+when,1
+where,1
+why,1
+why,1
